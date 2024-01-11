@@ -118,6 +118,10 @@ p{
     font-weight: 500;
 }
 
+.menu-icon{
+    display: none;
+}
+
 .main-body{
     flex-direction: column;
     background-color: #dadbf1;
@@ -178,7 +182,7 @@ p{
 }
 
 .learn-btn:hover{
-    text-decoration:underline;
+    text-decoration: underline;
 }
 
 footer{
